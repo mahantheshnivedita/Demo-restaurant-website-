@@ -1,0 +1,6 @@
+{
+  "name": "The Royal Plate | Luxury Dining & Heritage Cuisine",
+  "description": "An exquisite fine-dining restaurant offering authentic culinary heritage, royal recipes, artisanal beverages, table reservations, and seamless WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
